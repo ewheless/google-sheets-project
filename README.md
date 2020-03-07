@@ -13,3 +13,8 @@ I'd like to use Property Shark data to explore the boroughs/neighborhoods with t
 I can talk to a local business owner, or someone who is going through the foreclosure process. I could also try speaking to a local realtor or housing analyst.
 
 This could be pitched to local news outlets, or to a real estate publication.
+
+UPDATE Property Shark Data did not transfer well. Instead found data from the NYU Furman Center.
+
+Steps: downloaded Furman data and put into excel
+looked here for how to make a dynamic lookup : https://www.benlcollins.com/spreadsheets/dynamic-charts-google-sheets/
